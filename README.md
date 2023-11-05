@@ -1,4 +1,8 @@
-# 'blank' contract
+# The Staking Smart contract
+
+Doing the "Crowdfunding Smart Contract" from [MultiversX docs](https://docs.multiversx.com/developers/tutorials/staking-contract) with [xSuite](https://xsuite.dev).
+
+## 'blank' contract
 
 An empty contract that comes fully set up with tests and blockchain interactions.
 
